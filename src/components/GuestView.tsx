@@ -458,11 +458,8 @@ export const GuestView: React.FC<GuestViewProps> = ({ state, lang, onLanguageCha
         <div className="max-w-4xl mx-auto flex gap-2">
           {[
             { id: 'all', label: t.categoryAll },
-            { id: 'starters', label: t.categoryStarters },
-            { id: 'mains', label: t.categoryMains },
-            { id: 'desserts', label: t.categoryDesserts },
             { id: 'drinks', label: t.categoryDrinks },
-            { id: 'alcohol', label: t.categoryAlcohol },
+            { id: 'desserts', label: t.categoryDesserts },
           ].map((cat) => (
             <button
               id={`cat-tab-${cat.id}`}
