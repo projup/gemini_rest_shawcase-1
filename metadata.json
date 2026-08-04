@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Automation Pilot",
+  "description": "Commercial Pilot MVP for restaurant automation, featuring real-time synchronized Guest, Admin, Kitchen, and Bar roles with live progress tracking and automatic demo mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
