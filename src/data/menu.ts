@@ -19,7 +19,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Арабика, сахар (Горячий / Холодный)',
       vi: 'Arabica, đường (Nóng / Lạnh)'
     },
-    price: 30,
+    price: 30000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?auto=format&fit=crop&w=600&q=80',
@@ -37,7 +37,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Арабика, сахар (Горячий / Холодный)',
       vi: 'Arabica, đường (Nóng / Lạnh)'
     },
-    price: 40,
+    price: 40000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?auto=format&fit=crop&w=600&q=80',
@@ -55,7 +55,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Арабика, свежее молоко, сахар (Горячий / Холодный)',
       vi: 'Arabica, sữa tươi, đường (Nóng / Lạnh)'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1572442388796-11668a67e53d?auto=format&fit=crop&w=600&q=80',
@@ -73,7 +73,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Арабика, свежее молоко, сахар (Горячий / Холодный)',
       vi: 'Arabica, sữa tươi, đường (Nóng / Lạnh)'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1570968992193-d6ea04ddaca5?auto=format&fit=crop&w=600&q=80',
@@ -91,7 +91,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Арабика, вода',
       vi: 'Arabica, nước'
     },
-    price: 30,
+    price: 30000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=600&q=80',
@@ -109,7 +109,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Арабика, крем, яичные желтки (Горячий) ⭐',
       vi: 'Arabica, kem, lòng đỏ trứng (Nóng) ⭐'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1572442388796-11668a67e53d?auto=format&fit=crop&w=600&q=80',
@@ -127,7 +127,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Арабика, ванильное мороженое ⭐',
       vi: 'Arabica, kem vani ⭐'
     },
-    price: 55,
+    price: 55000,
     category: 'desserts',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1579954115545-a95591f28bfc?auto=format&fit=crop&w=600&q=80',
@@ -145,7 +145,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Арабика, овсяное молоко (Горячий / Холодный)',
       vi: 'Arabica, sữa yến mạch (Nóng / Lạnh)'
     },
-    price: 50,
+    price: 50000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1570968992193-d6ea04ddaca5?auto=format&fit=crop&w=600&q=80',
@@ -165,7 +165,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Робуста, сгущенное молоко (Горячий / Холодный)',
       vi: 'Robusta, sữa đặc (Nóng / Lạnh)'
     },
-    price: 35,
+    price: 35000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1572442388796-11668a67e53d?auto=format&fit=crop&w=600&q=80',
@@ -183,7 +183,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Робуста, сахар (Горячий / Холодный)',
       vi: 'Robusta, đường (Nóng / Lạnh)'
     },
-    price: 25,
+    price: 25000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?auto=format&fit=crop&w=600&q=80',
@@ -201,7 +201,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Робуста, свежее молоко, сгущенка, кофейное желе (Горячий / Холодный) ⭐',
       vi: 'Robusta, sữa tươi, sữa đặc, thạch cà phê (Nóng / Lạnh) ⭐'
     },
-    price: 35,
+    price: 35000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1570968992193-d6ea04ddaca5?auto=format&fit=crop&w=600&q=80',
@@ -219,7 +219,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Робуста, кокосовое молоко, свежее молоко, сгущенка',
       vi: 'Robusta, sữa dừa, sữa tươi, sữa đặc'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1570968992193-d6ea04ddaca5?auto=format&fit=crop&w=600&q=80',
@@ -237,7 +237,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Робуста, свежее молоко, сгущенка, яичный крем ⭐',
       vi: 'Robusta, sữa tươi, sữa đặc, kem trứng ⭐'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1572442388796-11668a67e53d?auto=format&fit=crop&w=600&q=80',
@@ -255,7 +255,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Робуста, сгущенное молоко, соленый крем ⭐',
       vi: 'Robusta, sữa đặc, kem muối ⭐'
     },
-    price: 35,
+    price: 35000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?auto=format&fit=crop&w=600&q=80',
@@ -275,7 +275,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Премиум японская Матча, сгущенное молоко (Горячий / Холодный)',
       vi: 'Matcha Nhật cao cấp, sữa đặc (Nóng / Lạnh)'
     },
-    price: 55,
+    price: 55000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1515823664972-6d6689c0f3ca?auto=format&fit=crop&w=600&q=80',
@@ -293,7 +293,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Премиум японская Матча, сгущенное молоко, Oreo',
       vi: 'Matcha Nhật cao cấp, sữa đặc, Oreo'
     },
-    price: 59,
+    price: 59000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1515823664972-6d6689c0f3ca?auto=format&fit=crop&w=600&q=80',
@@ -311,7 +311,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Кокос, премиум японская Матча ⭐',
       vi: 'Dừa, Matcha Nhật cao cấp ⭐'
     },
-    price: 60,
+    price: 60000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1515823664972-6d6689c0f3ca?auto=format&fit=crop&w=600&q=80',
@@ -329,7 +329,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Премиум японская Матча, сахар, сгущенное молоко, свежее молоко',
       vi: 'Matcha Nhật cao cấp, đường, sữa đặc, sữa tươi'
     },
-    price: 60,
+    price: 60000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1515823664972-6d6689c0f3ca?auto=format&fit=crop&w=600&q=80',
@@ -349,7 +349,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Семена лотоса, чай Улун с лотосом, сахар, Макиато, желе из водяного ореха',
       vi: 'Hạt sen, trà Oolong sen, đường, Macchiato, thạch củ năng'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=600&q=80',
@@ -367,7 +367,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Персиковый чай, персик, лимон, сахар, лемонграсс ⭐',
       vi: 'Trà đào, đào, chanh, đường, sả ⭐'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=600&q=80',
@@ -385,7 +385,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Жасмин, абрикос, чернослив, сахар, лимон ⭐',
       vi: 'Nhài, mơ, mận khô, đường, chanh ⭐'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=600&q=80',
@@ -403,7 +403,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Улун чай, тамаринд, топпинг из тамаринда ⭐',
       vi: 'Trà Oolong, me, topping me ⭐'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=600&q=80',
@@ -421,7 +421,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Жасмин, цветы клитории, личи, сахар, лимон ⭐',
       vi: 'Nhài, đậu biếc, vải, đường, chanh ⭐'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=600&q=80',
@@ -439,7 +439,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Жасмин, личи, Макиато, сахар, желе из личи',
       vi: 'Nhài, vải, Macchiato, đường, thạch vải'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=600&q=80',
@@ -457,7 +457,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Улун, шелковица, аренга, пиннатия, кумкват ⭐',
       vi: 'Olong, dâu tằm, hạt đắc, quất ⭐'
     },
-    price: 42,
+    price: 42000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=600&q=80',
@@ -475,7 +475,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Жасминовый чай, сметанное яблоко ⭐',
       vi: 'Trà nhài, mãng cầu ⭐'
     },
-    price: 40,
+    price: 40000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=600&q=80',
@@ -495,7 +495,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Черный чай, тайский красный чай, черная тапиока, агаровое желе ⭐',
       vi: 'Trà đen, trà đỏ Thái, trân châu đen, thạch agar ⭐'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1558160074-4d7d8bdf4268?auto=format&fit=crop&w=600&q=80',
@@ -513,7 +513,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Жасминовый молочный чай, зеленый рис',
       vi: 'Trà sữa nhài, cốm non'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1558160074-4d7d8bdf4268?auto=format&fit=crop&w=600&q=80',
@@ -531,7 +531,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Шоколад, черный чай',
       vi: 'Socola, trà đen'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1558160074-4d7d8bdf4268?auto=format&fit=crop&w=600&q=80',
@@ -549,7 +549,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Жасминовый Улун, жемчуг Улун ⭐',
       vi: 'Ô Long nhài, trân châu Ô Long ⭐'
     },
-    price: 40,
+    price: 40000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1558160074-4d7d8bdf4268?auto=format&fit=crop&w=600&q=80',
@@ -569,7 +569,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Тропические фрукты, йогурт',
       vi: 'Trái cây nhiệt đới, sữa chua'
     },
-    price: 45,
+    price: 45000,
     category: 'desserts',
     department: 'kitchen',
     image: 'https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=600&q=80',
@@ -587,7 +587,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Кокос, сахарный тростник',
       vi: 'Dừa, mía'
     },
-    price: 40,
+    price: 40000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1544148103-0773bf10d330?auto=format&fit=crop&w=600&q=80',
@@ -605,7 +605,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Сахарный тростник, лемонграсс, кумкват ⭐',
       vi: 'Mía, sả, tắc ⭐'
     },
-    price: 40,
+    price: 40000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1544148103-0773bf10d330?auto=format&fit=crop&w=600&q=80',
@@ -623,7 +623,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Какао, кокос, сгущенное молоко, свежее молоко',
       vi: 'Ca cao, dừa, sữa đặc, sữa tươi'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=600&q=80',
@@ -641,7 +641,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Шоколад, робуста, сахар, сгущенное молоко, свежее молоко ⭐',
       vi: 'Socola, Robusta, đường, sữa đặc, sữa tươi ⭐'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=600&q=80',
@@ -661,7 +661,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Манго, молочная пена, сахар, сгущенное молоко ⭐',
       vi: 'Xoài, milkfoam, đường, sữa đặc ⭐'
     },
-    price: 49,
+    price: 49000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1546173159-315724a31696?auto=format&fit=crop&w=600&q=80',
@@ -679,7 +679,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Банан, манго, маракуйя, сахар, сгущенное молоко ⭐',
       vi: 'Chuối, xoài, chanh dây, đường, sữa đặc ⭐'
     },
-    price: 49,
+    price: 49000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1546173159-315724a31696?auto=format&fit=crop&w=600&q=80',
@@ -697,7 +697,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Драконий фрукт, персик, сахар',
       vi: 'Thanh long, đào, đường'
     },
-    price: 49,
+    price: 49000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1546173159-315724a31696?auto=format&fit=crop&w=600&q=80',
@@ -715,7 +715,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Манго, желтый апельсин, сахар, сгущенное молоко',
       vi: 'Xoài, cam vàng, đường, sữa đặc'
     },
-    price: 49,
+    price: 49000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1546173159-315724a31696?auto=format&fit=crop&w=600&q=80',
@@ -735,7 +735,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Лимон, чернослив, сахар',
       vi: 'Chanh, mận khô, đường'
     },
-    price: 40,
+    price: 40000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=600&q=80',
@@ -753,7 +753,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Робуста, кокос, сгущенное молоко ⭐',
       vi: 'Robusta, dừa, sữa đặc ⭐'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?auto=format&fit=crop&w=600&q=80',
@@ -771,7 +771,7 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Шоколад, сахар, сгущенное молоко, свежее молоко',
       vi: 'Socola, đường, sữa đặc, sữa tươi'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=600&q=80',
@@ -789,10 +789,174 @@ export const MENU_ITEMS: MenuItem[] = [
       ru: 'Робуста, сырный порошок, сгущенное молоко, свежее молоко, попкорн ⭐',
       vi: 'Robusta, bột phô mai, sữa đặc, sữa tươi, bắp rang ⭐'
     },
-    price: 45,
+    price: 45000,
     category: 'drinks',
     department: 'bar',
     image: 'https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?auto=format&fit=crop&w=600&q=80',
     popular: true
+  },
+
+  // ➕ EXTRA TOPPING
+  {
+    id: 'extra_shot_espresso',
+    name: {
+      en: 'Extra Shot Espresso',
+      ru: 'Дополнительный шот эспрессо',
+      vi: 'Extra Shot Espresso'
+    },
+    description: {
+      en: 'Additional espresso shot',
+      ru: 'Дополнительная порция эспрессо',
+      vi: 'Thêm một shot espresso'
+    },
+    price: 25000,
+    category: 'toppings',
+    department: 'bar',
+    image: 'https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?auto=format&fit=crop&w=600&q=80',
+    popular: false
+  },
+  {
+    id: 'black_pearl',
+    name: {
+      en: 'Trân Châu Đen – Black Pearl',
+      ru: 'Черный жемчуг (тапиока)',
+      vi: 'Trân Châu Đen – Black Pearl'
+    },
+    description: {
+      en: 'Black tapioca pearls',
+      ru: 'Шарики тапиоки',
+      vi: 'Trân châu đen'
+    },
+    price: 7000,
+    category: 'toppings',
+    department: 'bar',
+    image: 'https://images.unsplash.com/photo-1541167759726-8dd3e8a700a6?auto=format&fit=crop&w=600&q=80',
+    popular: false
+  },
+  {
+    id: 'oolong_pearl',
+    name: {
+      en: 'Trân Châu Oolong – Oolong Pearl',
+      ru: 'Жемчуг Улун',
+      vi: 'Trân Châu Oolong – Oolong Pearl'
+    },
+    description: {
+      en: 'Oolong tea pearls',
+      ru: 'Шарики из чая улун',
+      vi: 'Trân châu ô long'
+    },
+    price: 7000,
+    category: 'toppings',
+    department: 'bar',
+    image: 'https://images.unsplash.com/photo-1541167759726-8dd3e8a700a6?auto=format&fit=crop&w=600&q=80',
+    popular: false
+  },
+  {
+    id: 'oolong_3q_pearl',
+    name: {
+      en: 'Trân Châu Oolong 3Q – 3Q Oolong Pearl',
+      ru: '3Q жемчуг Улун',
+      vi: 'Trân Châu Oolong 3Q – 3Q Oolong Pearl'
+    },
+    description: {
+      en: 'Chewy oolong tea pearls (3Q texture)',
+      ru: 'Упругие шарики из чая улун (текстура 3Q)',
+      vi: 'Trân châu ô long dai giòn (3Q)'
+    },
+    price: 7000,
+    category: 'toppings',
+    department: 'bar',
+    image: 'https://images.unsplash.com/photo-1541167759726-8dd3e8a700a6?auto=format&fit=crop&w=600&q=80',
+    popular: false
+  },
+  {
+    id: 'agar_jelly',
+    name: {
+      en: 'Thạch Ống Agar – Agar Jelly',
+      ru: 'Агар желе в трубочках',
+      vi: 'Thạch Ống Agar – Agar Jelly'
+    },
+    description: {
+      en: 'Tube-shaped agar jelly',
+      ru: 'Желе из агара в форме трубочек',
+      vi: 'Thạch agar hình ống'
+    },
+    price: 7000,
+    category: 'toppings',
+    department: 'bar',
+    image: 'https://images.unsplash.com/photo-1541167759726-8dd3e8a700a6?auto=format&fit=crop&w=600&q=80',
+    popular: false
+  },
+  {
+    id: 'coffee_jelly',
+    name: {
+      en: 'Thạch Cà Phê – Coffee Jelly',
+      ru: 'Кофейное желе',
+      vi: 'Thạch Cà Phê – Coffee Jelly'
+    },
+    description: {
+      en: 'Coffee-flavored jelly cubes',
+      ru: 'Кубики кофейного желе',
+      vi: 'Thạch cà phê'
+    },
+    price: 7000,
+    category: 'toppings',
+    department: 'bar',
+    image: 'https://images.unsplash.com/photo-1541167759726-8dd3e8a700a6?auto=format&fit=crop&w=600&q=80',
+    popular: false
+  },
+  {
+    id: 'water_chestnut_jelly',
+    name: {
+      en: 'Thạch Củ Năng – Water Chestnut Jelly',
+      ru: 'Желе из водяного каштана',
+      vi: 'Thạch Củ Năng – Water Chestnut Jelly'
+    },
+    description: {
+      en: 'Crunchy water chestnut jelly',
+      ru: 'Хрустящее желе из водяного каштана',
+      vi: 'Thạch củ năng giòn'
+    },
+    price: 7000,
+    category: 'toppings',
+    department: 'bar',
+    image: 'https://images.unsplash.com/photo-1541167759726-8dd3e8a700a6?auto=format&fit=crop&w=600&q=80',
+    popular: false
+  },
+  {
+    id: 'banh_flan',
+    name: {
+      en: 'Bánh Flan',
+      ru: 'Вьетнамский крем-брюле',
+      vi: 'Bánh Flan'
+    },
+    description: {
+      en: 'Vietnamese caramel custard pudding',
+      ru: 'Вьетнамский карамельный пудинг',
+      vi: 'Bánh flan caramel'
+    },
+    price: 7000,
+    category: 'toppings',
+    department: 'bar',
+    image: 'https://images.unsplash.com/photo-1579954115545-a95591f28bfc?auto=format&fit=crop&w=600&q=80',
+    popular: false
+  },
+  {
+    id: 'lotus_seed',
+    name: {
+      en: 'Hạt Sen – Lotus Seed',
+      ru: 'Семена лотоса',
+      vi: 'Hạt Sen – Lotus Seed'
+    },
+    description: {
+      en: 'Sweet lotus seeds',
+      ru: 'Сладкие семена лотоса',
+      vi: 'Hạt sen ngọt'
+    },
+    price: 10000,
+    category: 'toppings',
+    department: 'bar',
+    image: 'https://images.unsplash.com/photo-1541167759726-8dd3e8a700a6?auto=format&fit=crop&w=600&q=80',
+    popular: false
   }
 ];
