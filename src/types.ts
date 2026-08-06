@@ -22,7 +22,7 @@ export interface MenuItem {
     vi: string;
   };
   price: number;
-  category: 'starters' | 'mains' | 'desserts' | 'drinks' | 'alcohol' | 'toppings';
+  category: 'italian_coffee' | 'vietnamese_coffee' | 'matcha' | 'tea' | 'milk_tea' | 'non_coffee' | 'smoothies' | 'ice_blended' | 'toppings';
   department: Department;
   image: string;
   popular?: boolean;
