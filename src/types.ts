@@ -22,7 +22,7 @@ export interface MenuItem {
     vi: string;
   };
   price: number;
-  category: 'starters' | 'mains' | 'desserts' | 'drinks' | 'alcohol';
+  category: 'starters' | 'mains' | 'desserts' | 'drinks' | 'alcohol' | 'toppings';
   department: Department;
   image: string;
   popular?: boolean;
